@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><TransformationConfiguration forwardTransformation="com.ibm.xtools.umldt.rt.transform.cpp.UML2CppTransform" version="8.0.0">
 <!--xtools2_universal_type_manager-->
 <Property id="CONTEXT_SOURCE" value="@49,10@com.ibm.xtools.transform.core.metatype.CollectionHelloWorldjava.util.ArrayList,198&lt;ELEM_START&gt;@52,10@com.ibm.xtools.transform.core.metatype.emf.referenceHelloWorld*HelloWorld;org.eclipse.gmf.runtime.emf.type.core.default;platform:/resource/HelloWorldGit/HelloWorld.emx#_DDG60IdhEeOejd5QC3y9bw"/>
+<Property id="CONTEXT_TARGET_CONTAINER" value="@46,=@com.ibm.xtools.transform.core.metatype.project/HelloWorldGit_target"/>
+<Property id="DCMP" value="@43,10@com.ibm.xtools.transform.core.metatype.DCMPConceptual1"/>
+<Property id="EnableReverseTransformation" value="@46,=@com.ibm.xtools.transform.core.metatype.booleanfalse"/>
 <Property id="FORWARD_TRANSFORMATION_EXTENSIONS_STATUS" value="@42,0@com.ibm.xtools.transform.core.metatype.Mapjava.util.HashMap&lt;ELEM_START&gt;"/>
+<Property id="com.ibm.xtools.umldt.rt.transform.Abstract" value="@46,=@com.ibm.xtools.transform.core.metatype.booleanfalse"/>
+<Property id="com.ibm.xtools.umldt.rt.transform.Copyrighttext" value="@45,=@com.ibm.xtools.transform.core.metatype.string"/>
+<Property id="com.ibm.xtools.umldt.rt.transform.DocCommentStyle" value="@45,=@com.ibm.xtools.transform.core.metatype.choice2"/>
+<Property id="com.ibm.xtools.umldt.rt.transform.Environment" value="@45,=@com.ibm.xtools.transform.core.metatype.choice1"/>
+<Property id="com.ibm.xtools.umldt.rt.transform.GenUserCodeQualifiers" value="@46,=@com.ibm.xtools.transform.core.metatype.booleanfalse"/>
 <Property id="com.ibm.xtools.umldt.rt.transform.ManagingTargetConfiguration" value="@46,=@com.ibm.xtools.transform.core.metatype.booleantrue"/>
 <Property id="com.ibm.xtools.umldt.rt.transform.Prerequisites" value="@49,64@com.ibm.xtools.transform.core.metatype.Collectionplatform:/plugin/com.ibm.xtools.umldt.rt.cpp.core/RTComponent.tcjava.util.ArrayList,115&lt;ELEM_START&gt;@45,=@com.ibm.xtools.transform.core.metatype.stringplatform:/plugin/com.ibm.xtools.umldt.rt.cpp.core/RTComponent.tc"/>
+<Property id="com.ibm.xtools.umldt.rt.transform.Type" value="@45,=@com.ibm.xtools.transform.core.metatype.choice2"/>
+<Property id="com.ibm.xtools.umldt.rt.transform.cpp.CommonPreface" value="@45,=@com.ibm.xtools.transform.core.metatype.string"/>
+<Property id="com.ibm.xtools.umldt.rt.transform.cpp.CompileIndividually" value="@46,=@com.ibm.xtools.transform.core.metatype.booleantrue"/>
+<Property id="com.ibm.xtools.umldt.rt.transform.cpp.DefaultArguments" value="@45,=@com.ibm.xtools.transform.core.metatype.string"/>
+<Property id="com.ibm.xtools.umldt.rt.transform.cpp.SourceSubdirectory" value="@45,=@com.ibm.xtools.transform.core.metatype.string"/>
+<Property id="com.ibm.xtools.umldt.rt.transform.cpp.SupportFileArtifacts" value="@46,=@com.ibm.xtools.transform.core.metatype.booleanfalse"/>
 <Property id="com.ibm.xtools.umldt.rt.transform.cpp.TargetServicesLibrary" value="@45,=@com.ibm.xtools.transform.core.metatype.string${RSA_RT_HOME}/C++/TargetRTS"/>
 <Property id="com.ibm.xtools.umldt.rt.transform.cpp.TopCapsule" value="@52,22@com.ibm.xtools.transform.core.metatype.emf.referenceHelloWorld::HelloWorld*HelloWorld::HelloWorld;org.eclipse.gmf.runtime.emf.type.core.default;platform:/resource/HelloWorldGit/HelloWorld.emx#_DGfmAIdhEeOejd5QC3y9bw"/>
+<Property id="com.ibm.xtools.umldt.rt.transform.cpp.UnitName" value="@45,=@com.ibm.xtools.transform.core.metatype.stringUnitName"/>
+<Property id="com.ibm.xtools.umldt.rt.transform.cpp.UnitSubdirectory" value="@45,=@com.ibm.xtools.transform.core.metatype.string"/>
+<Property id="logTrace" value="@46,=@com.ibm.xtools.transform.core.metatype.booleanfalse"/>
+<Property id="replaceUML" value="@46,=@com.ibm.xtools.transform.core.metatype.booleanfalse"/>
 </TransformationConfiguration>
