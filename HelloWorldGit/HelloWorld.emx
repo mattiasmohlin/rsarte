@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--xtools2_universal_type_manager-->
+<!--Rational Software Architect RealTime Edition 9.1.2-->
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Default="http:///schemas/Default/_fNm3AAqoEd6-N_NOT9vsCA/2" xmlns:UMLRealTime="http:///schemas/UMLRealTime/_3TUzoHq6Ed2hSeAAWZznoA/119" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xsi:schemaLocation="http:///schemas/Default/_fNm3AAqoEd6-N_NOT9vsCA/2 pathmap://UML2_MSL_PROFILES/Default.epx#_fNwoAAqoEd6-N_NOT9vsCA?Default/Default? http:///schemas/UMLRealTime/_3TUzoHq6Ed2hSeAAWZznoA/119 pathmap://RT_PROPERTIES/UMLRealTime.epx#_3TUzoXq6Ed2hSeAAWZznoA?UMLRealTime/UMLRealTime?">
@@ -74,6 +75,7 @@
       <ownedAttribute xmi:type="uml:Port" xmi:id="_DRJW0IdhEeOejd5QC3y9bw" name="log" aggregation="composite" isBehavior="true" isService="false">
         <type xmi:type="uml:Collaboration" href="platform:/plugin/com.ibm.xtools.umldt.rt.cpp.core/libraries/RTClasses.emx#_17x9drIlEduJc5NEaBCMOw?RTClasses/Log/Log?"/>
       </ownedAttribute>
+      <ownedAttribute xmi:id="_uIzR0O5IEeS-XZblutWICw" name="attribute1" visibility="private"/>
       <ownedBehavior xmi:type="uml:StateMachine" xmi:id="_DI_gYIdhEeOejd5QC3y9bw" name="State Machine">
         <eAnnotations xmi:id="_DPUK0IdhEeOejd5QC3y9bw" source="uml2.diagrams" references="_DPdUwIdhEeOejd5QC3y9bw">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_DPdUwIdhEeOejd5QC3y9bw" type="Statechart" element="_DI_gYIdhEeOejd5QC3y9bw" measurementUnit="Himetric">
@@ -120,7 +122,7 @@ context()->abort();</body>
     </profileApplication>
     <profileApplication xmi:id="_DDHiAYdhEeOejd5QC3y9bw">
       <eAnnotations xmi:id="_DDHiAodhEeOejd5QC3y9bw" source="http://www.eclipse.org/uml2/2.0.0/UML">
-        <references xmi:type="ecore:EPackage" href="pathmap://CPP_LANGUAGE_PROFILE/CppPropertySets.epx#_X7F9EDciEeOOFvs5F-j6Uw?CppPropertySets/CppPropertySets?"/>
+        <references xmi:type="ecore:EPackage" href="pathmap://CPP_LANGUAGE_PROFILE/CppPropertySets.epx#_5TYAwMk4EeO2m9WtkWjeeQ?CppPropertySets/CppPropertySets?"/>
       </eAnnotations>
       <appliedProfile href="pathmap://CPP_LANGUAGE_PROFILE/CppPropertySets.epx#_TNvRgL3gEduxAOGdMW1qJA?CppPropertySets?"/>
     </profileApplication>
