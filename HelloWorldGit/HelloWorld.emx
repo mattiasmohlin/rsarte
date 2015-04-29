@@ -75,7 +75,9 @@
       <ownedAttribute xmi:type="uml:Port" xmi:id="_DRJW0IdhEeOejd5QC3y9bw" name="log" aggregation="composite" isBehavior="true" isService="false">
         <type xmi:type="uml:Collaboration" href="platform:/plugin/com.ibm.xtools.umldt.rt.cpp.core/libraries/RTClasses.emx#_17x9drIlEduJc5NEaBCMOw?RTClasses/Log/Log?"/>
       </ownedAttribute>
-      <ownedAttribute xmi:id="_uIzR0O5IEeS-XZblutWICw" name="attribute1" visibility="private"/>
+      <ownedAttribute xmi:id="_uIzR0O5IEeS-XZblutWICw" name="attribute1" visibility="private">
+        <type xmi:type="uml:PrimitiveType" href="platform:/plugin/com.ibm.xtools.umldt.rt.cpp.core/libraries/CppPrimitiveDatatypes.emx#_f0876hKyEdyaM9S2zG4bgA?CppPrimitiveDatatypes/int?"/>
+      </ownedAttribute>
       <ownedBehavior xmi:type="uml:StateMachine" xmi:id="_DI_gYIdhEeOejd5QC3y9bw" name="State Machine">
         <eAnnotations xmi:id="_DPUK0IdhEeOejd5QC3y9bw" source="uml2.diagrams" references="_DPdUwIdhEeOejd5QC3y9bw">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_DPdUwIdhEeOejd5QC3y9bw" type="Statechart" element="_DI_gYIdhEeOejd5QC3y9bw" measurementUnit="Himetric">
